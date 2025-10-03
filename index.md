@@ -1,1 +1,12 @@
+---
+layout: default
+title: About
+---
+
+# About
+
+Hi! I'm Elnaz Hessami Pilehrood, and I'm a MMath student at the University of Waterloo, Department of Combinatorics and Optimization. My supervisor is Samuel Jaques and I'm interested in Cryptography. Before coming to Waterloo, I completed my BSc with a Mathematics Specialist at the University of Toronto. You can contact me at ehessami@uwaterloo.ca. 
+
+
+![Me](images/my_photo.jpg)
 
